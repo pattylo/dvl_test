@@ -5,7 +5,7 @@
         <param name="port" value="16171"/>
     </node> -->
     <node pkg="waterlinked_a50_ros_driver" type="dvl_cpp" name="dvl_cpp">
-        <param name="ip" value="192.168.69.20"/>
+        <param name="ip" value="192.168.2.95"/>
         <param name="port" value="16171"/>
     </node>
 </launch>
